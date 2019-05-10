@@ -1,3 +1,7 @@
+This fork is now patched to work with Gnome Shell 3.32
+I have kept this extension 'alive' here because it has more functionality that the pamac indicator.
+---
+
 # Now this extension is not necessary in Manjaro since we have merged into pamac the code.
 ---
 # manjaro-update
